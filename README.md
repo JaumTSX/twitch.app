@@ -8,5 +8,5 @@ I learned from @Rocketseat videos. Thank you!
 
 #           How to install
 
-1- Run `npm install` or `yarn install`.
-2- Run `yarn start`.
+- 1- Run `npm install` or `yarn install`.
+- 2- Run `yarn start`.
